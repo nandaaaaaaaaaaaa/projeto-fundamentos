@@ -7,7 +7,7 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Fernanda Gonçalves da Costa|Gerente de Projeto|fernandagoncalvesdacosta9094@gmil.com|
 
 # Sumário
 
