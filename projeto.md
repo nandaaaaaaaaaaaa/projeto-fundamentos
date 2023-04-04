@@ -10,6 +10,7 @@
 |Wanda Pereira da Costa|Gerente de Projeto|pereirawanda131@gmail.com|
 |Aline Noemerg Grey|desenvolvedora|noemerggrey@gmail.com|
 |Pedro Noemerg De Andrade|CEO|pedronoemerg10@gmail.com|
+|Kewrison Luan Caminh Rodrigues|Desenvolvedor|luan.caminha124@gmail.com|
 
 # Sumário
 
