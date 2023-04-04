@@ -7,10 +7,10 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wanda Pereira da Costa|Gerente de Projeto|pereirawanda131@gmail.com|
-|Aline Noemerg Grey|desenvolvedora|noemerggrey@gmail.com|
-|Pedro Noemerg De Andrade|CEO|pedronoemerg10@gmail.com|
-|Kewrison Luan Caminh Rodrigues|Desenvolvedor|luan.caminha124@gmail.com|
+|Wanda Pereira da Costa|Desenvolvedora|pereirawanda131@gmail.com|
+|Aline Noemerg Grey|Desenvolvedora|noemerggrey@gmail.com|
+|Pedro Noemerg De Andrade|Desenvolvedor|pedronoemerg10@gmail.com|
+|Kewrison Luan Caminha Rodrigues|Desenvolvedor|luan.caminha124@gmail.com|
 
 # Sumário
 
@@ -56,21 +56,11 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Moti_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
-* Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
-
+A proposta surgiu como um trabalho de fundamento do professor Wagner Ferreira, de uma de suas aulas. Escolhemos o tema de sorveteria online pelo motivo de ser algo que todos temos conhecimentos, e ser um diferencial no ramo dos laticinios. Teriamos diversas opções para desenvolviento, teria uma facil manutenção e atualização.
 
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
