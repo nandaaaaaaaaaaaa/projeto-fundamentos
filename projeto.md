@@ -48,7 +48,7 @@
 | NOME DO PROJETO | Home's Moti |
 | GERENTE DO PROJETO | Fernada Costa |
 | PRINCIPAL OBJETIVO | Venda de sovertes para toda a população de forma rapida e pratica, proporcionar a experiencia de estar em um ambiente aconchegante e com diversas opções|
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| BENEFÍCIOS ESPERADOS |* Melhor forma de atendimento<br/>* Mais opções de sabores;<br/>* Melhor forma de entrega ao cliente;<br/>*Acessibilidade ao cliente;<br/>* Automatização dos pedidos|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
