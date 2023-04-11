@@ -7,7 +7,15 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
+<<<<<<< HEAD
 |Fernanda Gonçalves da Costa|Gerente de Projeto|fernandagoncalvesdacosta9094@gmil.com|
+=======
+|Fernada Gonçalves da Costa|Desenvolvedora-Líder|fernandagoncalvesdacosta9094@gmail.com|
+|Wanda Pereira da Costa|Desenvolvedora|pereirawanda131@gmail.com|
+|Aline Noemerg Grey|Desenvolvedora|noemerggrey@gmail.com|
+|Pedro Noemerg De Andrade|Desenvolvedor|pedronoemerg10@gmail.com|
+|Kewrison Luan Caminha Rodrigues|Desenvolvedor|luan.caminha124@gmail.com|
+>>>>>>> 927f18c418f46e25f9eedcc929c58b4db11c2c25
 
 # Sumário
 
@@ -41,10 +49,10 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | Home's Moti |
+| GERENTE DO PROJETO | Fernada Costa |
+| PRINCIPAL OBJETIVO | Venda de sovertes para toda a população de forma rapida e pratica, proporcionar a experiencia de estar em um ambiente aconchegante e com diversas opções|
+| BENEFÍCIOS ESPERADOS |* Melhor forma de atendimento<br/>* Mais opções de sabores;<br/>* Melhor forma de entrega ao cliente;<br/>*Acessibilidade ao cliente;<br/>* Automatização dos pedidos|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
@@ -53,21 +61,11 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Moti_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
-* Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
-
+A proposta surgiu como um trabalho de fundamento do professor Wagner Ferreira, de uma de suas aulas. Escolhemos o tema de sorveteria online pelo motivo de ser algo que todos temos conhecimentos, e ser um diferencial no ramo dos laticinios. Teriamos diversas opções para desenvolviento, teria uma facil manutenção e atualização.
 
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
@@ -86,15 +84,14 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto consiste em uma sorveteria online chamada "Home's Moti" temos o melhor atendimento a distância e pode ser de qualquer lugar. Com sabores diversificados e com um preço justo de acordo com o tamanho do seu pedido. A entrega na residência não tem frete. Essa ferramenta pode ser utilizada tanto pelos clientes quanto pelos funcionários. O cliente monta seu próprio sorvete utilizando as ferramentas do aplicativo e o funcionário monta o pedido de acordo com os requisitos mandados. O funcionário confirma o pedido e manda para a residência do cliente. O site é de fácil acesso ao cliente e bem estruturado [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Não trabalhamos com avaliação do pedido e do produto;
+* Não temos barra de pesquisa;
+* A aplicação não aceita reembolso.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
