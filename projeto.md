@@ -80,8 +80,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto consiste em um aplicativo de melhor atendimento a distância e pode ser de qualquer lugar. Com sabores diversificados e com um preço justo de acordo com o tamanho do seu pedido. A entrega na residência é de graça. Essa ferramenta pode ser utilizada tanto pelos clientes quanto pelos funcionários. O cliente monta seu próprio sorvete utilizando as ferramentas do aplicativo e o funcionário o pedido de acordo com os requisitos mandados. O funcionário confirma o pedido e manda para a residência do cliente [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
