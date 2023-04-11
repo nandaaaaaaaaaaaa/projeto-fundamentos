@@ -85,9 +85,9 @@ O projeto consiste em um aplicativo de melhor atendimento a distância e pode se
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Não trabalhamos com avaliação do pedido e do produto;
+* Não temos barra de pesquisa;
+* A aplicação não aceita reembolso.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
