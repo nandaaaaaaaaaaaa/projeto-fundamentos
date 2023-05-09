@@ -7,9 +7,6 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-<<<<<<< HEAD
-|Fernanda Gonçalves da Costa|Gerente de Projeto|fernandagoncalvesdacosta9094@gmil.com|
-=======
 |Fernada Gonçalves da Costa|Desenvolvedora-Líder|fernandagoncalvesdacosta9094@gmail.com|
 |Wanda Pereira da Costa|Desenvolvedora|pereirawanda131@gmail.com|
 |Aline Noemerg Grey|Desenvolvedora|noemerggrey@gmail.com|
