@@ -178,8 +178,27 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Sistema de cadastro de usuários |Essa função irá direcionar os clientes para eles cadastrarem no site e realizarem seus pedidos com suas informações pessoais |
+|RF-002 | Sistema para entrada sem usuario | Existe momentos que o cliente quer fazer um pedido simples e rapido sem um dadastro e ele poderá com essa função acessar o site de forma facil e rápida |
+|RF-003 |Carrinho de compras |Deve permitir que os clientes adicionem sorvetes ao carrinho de compras, visualizem o resumo do pedido, modifiquem as quantidades e removam itens indesejados |
+|RF-004 |Catálogo com os nossos produtos | Servir como cardapio, contendo nossos diversos produtos que compoem o sorvete perfeito para cada cliente |
+|RF-005 | Sistema de Self-service | Serve para que o cliente monte seu própio sorvete, colocando itens a mais no seu sorvete e montando da forma que lhe caiba bem |
+|RF-006 | Sistema de entrega | Na finalização da compra o cliente preeencherá uma barra colando os requisitos do endereço, para que o entregue o sorvete no endereço que foi solicitado |
+|RF-007 | Sistema de Timing | Quando o cliente finalizar o seu pedido, irá começar um cronometro desde o momento em que seu pedido foi encaminhado e será enviado uma notificação e quando o produto ficar pronto e outra quando o produto estiver a caminho |
+|RF-008 | Recuperação de cadastro  | No momento em que o cliente não relembra os dados de seu cadastro para refazer login, ele poderá tentar recuperar usando o email que foi cadastrado anteriormente |
+|RF-009 | Sorveteria física  | O cliente poderá tomar o sorvete na sorveteria física ou fazer seu pedido na loja online mas buscar seu pedido na loja física |
+|RF-010 | Sistema de  Promoções  |  a sorveteria terá promoções  de  feriados importantes, ex: dia das mães, dia dos pais e etc. |
+|RF-011 | ...  | .... |
+|RF-012 | ...  | .... |
+|RF-013 | ...  | .... |
+|RF-014 | ...  | .... |
+|RF-015 | ...  | .... |
+|RF-016 | ...  | .... |
+|RF-017 | ...  | .... |
+|RF-018 | ...  | .... |
+|RF-019 | ...  | .... |
+|RF-020 | ...  | .... |
+
 
 
 ## Requisitos Não Funcionais
