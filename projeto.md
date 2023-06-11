@@ -206,8 +206,16 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 | INTEROPERABILIDADE | O sistema deve estar ligado com outros sistemas que possibilitam o pagamento, como: paypal, google pay, pix e mercado pago.|
+|RNF-002 | PORTABILIDADE | O sistema deve rodar nos principais navegadores: Chrome, Firefox, Opera, Safari e também deve ser suportável nas versões mais recentes de Android e IOS.|
+|RNF-003 | DESEMPENHO | Deve carregar cada página com um tempo máximo de 3 segundos.|
+|RNF-004 | IMPLEMENTAÇÃO | O sistema deve estar disponível em navegadores e para download em computadores e smartphones.|
+|RNF-005 | DISPONIBILIDADE | O sistema deve estar indisponível enquanto o estabelecimento estiver fechado.|
+|RNF-006 | ESPAÇO | Para download, será necessário um espaço mínimo de 675Mb.|
+|RNF-007 | ÉTICO | O sistema deve tratar os dados de cada usuário apenas para finalidade de venda dos produtos desejados.|
+|RNF-008 | INTERFACE SIMPLES |  O sistema deve conter uma interface de fácil visualização e navegação.|
+|RNF-009 | PRIVACIDADE | O sistema deve proteger os dados de seus clientes de acordo com o que a lei determina.|
+|RNF-010 | INTEROPERABILIDADE NO LOGON | Permitir que usuário possa criar seu cadastro através de outros sites, como google e facebook.|
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
