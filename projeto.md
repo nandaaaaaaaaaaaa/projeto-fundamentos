@@ -12,6 +12,7 @@
 |Aline Noemerg Grey|Desenvolvedora|noemerggrey@gmail.com|
 |Pedro Noemerg De Andrade|Desenvolvedor|pedronoemerg10@gmail.com|
 |Kewrison Luan Caminha Rodrigues|Desenvolvedor|luan.caminha124@gmail.com|
+|Erik Gabriel|Desenvolvedor|gabriel.fatima16@gmail.com|
 >>>>>>> 927f18c418f46e25f9eedcc929c58b4db11c2c25
 
 # Sumário
