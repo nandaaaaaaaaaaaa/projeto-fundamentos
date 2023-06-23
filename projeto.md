@@ -223,9 +223,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Prototipagem
 
-[Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/iNC7wyX9zP7Kmn3BhiCFGf/Fals6Hood-(Prot%C3%B3tipo-criado-por-estudantes-em-2022)?node-id=0%3A1&t=B16hgeZP3MSURCCa-1)
+[Protótipo Sorveteria Moti's Sweet Home](https://www.figma.com/proto/DvGAQNCjLqoI3tZqaDpeAO/Moti's-Sorveteria?type=design&node-id=29-9&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=17%3A3)
 
-![Imagem do Protótipo](/img/home.png)
+![Imagem do Protótipo](/img/tela1.png)
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
