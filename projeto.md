@@ -223,7 +223,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Prototipagem
 
-[Protótipo Sorveteria Moti's Sweet Home](https://www.figma.com/proto/DvGAQNCjLqoI3tZqaDpeAO/Moti's-Sorveteria?type=design&node-id=29-9&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=17%3A3)
+[Protótipo Sorveteria Moti's Sweet Home](https://www.figma.com/file/DvGAQNCjLqoI3tZqaDpeAO/Moti's-Sorveteria?type=design&node-id=0%3A1&mode=design&t=OgwfCDHpTxQGFcUR-1)
 
 ![Imagem do Protótipo](/img/tela1.png)
 
