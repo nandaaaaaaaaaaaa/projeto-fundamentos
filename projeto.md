@@ -151,11 +151,29 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+**Requisitos de Software e Desenvolvimento:** determinar quais funcionalidade são necessárias para o nosso site(Sweet Mochi), por exemplo: exibir o menu, calcular preços, fornecer informações sobre a entrega e etc.
+**Design e Usabilidade:** fornecer um design acolhedor e um layout com facilidade na usabilidade do site, certificando que o cliente não terá nenhuma frustração com a sorveteria.
+**Cardápio online:** Apresentar de forma clara e atraente o cardápio de sorvetes e outros produtos oferecidos, incluindo descrições, fotos de alta qualidade e preços.
+**Sistema de pedidos online:** Implementar um sistema de pedidos online que permita aos clientes escolher seus produtos, personalizá-los e efetuar o pagamento de forma conveniente.
+Integração de pagamento seguro: Garantir que o site tenha uma integração segura para processar os pagamentos online, protegendo as informações financeiras dos clientes.
+**Integrações:** os pedidos onlines é preciso de uma integração de sistemas de pagamentos como por exemplo o PayPal, também de Redes sociais para usá-las como ferramenta de marketing.
+**Localização e Entrega:** a sorveteria oferece serviços de entrega, integra ferramentas de localização para que os clientes possam inserir seus endereços e calcular a taxa de entrega. Planeje também como os pedidos serão rastreados e entregues eficientemente.
+**Aspectos Legais e Regulatórios:** Cumpra todas as regulamentações locais, estaduais e nacionais relacionadas à venda de alimentos online, incluindo licenças de alimentos, regulamentos de segurança alimentar e impostos.
+
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+**Análise de Custo-Benefício:** Realize uma análise detalhada dos custos envolvidos na criação e operação da sorveteria online, incluindo custos de produção, marketing, manutenção do site, embalagens e logística.
+
+**Custo-benefício aproximado:** Usando o investimento inicial de aproximadamente R$80 mil. 
+Destinamos 5 mil reais a aluguel, água, luz e internet.
+com a compra de no mínimo 8 freezer de 415 L no valor aproximado de 4 mil.
+custo de 6 funcionários com o ganho de 1,800 totalizando 10,800 reais.
+10 mil ficarão para complementos e embalagens.
+mil reais para ingredientes para sorvete artesanal e 5 mil reais em sorvete industrial.
+Até agora usamos 61.800, sobrando 18.200 para imprevistos e custos adicionais de estoque, network e imprevistos. levando em consideração a meta de 300 vendas ao mês o lucro mensal seria aproximadamente de 15 mil ao mês, ressarcindo o custo inicial em menos de 6 meses.
+Isso determina a viabilidade de nossa sorveteria com um investimento mínimo.
+
 
 ## Viabilidade Organizacional
 
