@@ -151,14 +151,21 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-**Requisitos de Software e Desenvolvimento:** determinar quais funcionalidade são necessárias para o nosso site(Sweet Mochi), por exemplo: exibir o menu, calcular preços, fornecer informações sobre a entrega e etc.\n
-**Design e Usabilidade:** fornecer um design acolhedor e um layout com facilidade na usabilidade do site, certificando que o cliente não terá nenhuma frustração com a sorveteria.\n
-**Cardápio online:** Apresentar de forma clara e atraente o cardápio de sorvetes e outros produtos oferecidos, incluindo descrições, fotos de alta qualidade e preços.\n
-**Sistema de pedidos online:** Implementar um sistema de pedidos online que permita aos clientes escolher seus produtos, personalizá-los e efetuar o pagamento de forma conveniente.\n
+**Requisitos de Software e Desenvolvimento:** determinar quais funcionalidade são necessárias para o nosso site(Sweet Mochi), por exemplo: exibir o menu, calcular preços, fornecer informações sobre a entrega e etc.
+
+**Design e Usabilidade:** fornecer um design acolhedor e um layout com facilidade na usabilidade do site, certificando que o cliente não terá nenhuma frustração com a sorveteria.
+
+**Cardápio online:** Apresentar de forma clara e atraente o cardápio de sorvetes e outros produtos oferecidos, incluindo descrições, fotos de alta qualidade e preços.
+
+**Sistema de pedidos online:** Implementar um sistema de pedidos online que permita aos clientes escolher seus produtos, personalizá-los e efetuar o pagamento de forma conveniente.
+
 Integração de pagamento seguro: Garantir que o site tenha uma integração segura para processar os pagamentos online, protegendo as informações financeiras dos clientes.
-**Integrações:** os pedidos onlines é preciso de uma integração de sistemas de pagamentos como por exemplo o PayPal, também de Redes sociais para usá-las como ferramenta de marketing.\n
-**Localização e Entrega:** a sorveteria oferece serviços de entrega, integra ferramentas de localização para que os clientes possam inserir seus endereços e calcular a taxa de entrega. Planeje também como os pedidos serão rastreados e entregues eficientemente.\n
-**Aspectos Legais e Regulatórios:** Cumpra todas as regulamentações locais, estaduais e nacionais relacionadas à venda de alimentos online, incluindo licenças de alimentos, regulamentos de segurança alimentar e impostos.\n
+**Integrações:** os pedidos onlines é preciso de uma integração de sistemas de pagamentos como por exemplo o PayPal, também de Redes sociais para usá-las como ferramenta de marketing.
+
+**Localização e Entrega:** a sorveteria oferece serviços de entrega, integra ferramentas de localização para que os clientes possam inserir seus endereços e calcular a taxa de entrega. Planeje também como os pedidos serão rastreados e entregues eficientemente.
+
+**Aspectos Legais e Regulatórios:** Cumpra todas as regulamentações locais, estaduais e nacionais relacionadas à venda de alimentos online, incluindo licenças de alimentos, regulamentos de segurança alimentar e impostos.
+
 
 
 ## Viabilidade Econômica
