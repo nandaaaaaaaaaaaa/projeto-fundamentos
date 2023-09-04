@@ -184,7 +184,7 @@ Isso determina a viabilidade de nossa sorveteria com um investimento mínimo.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Do ponto de vista das pessoas que trabalham na nossa sorveteria (Sweet Home). Espera-se que os funcionários e clientes tenham acesso aos sites ou ao local de maneira compreensível para que até mesmo pessoas que possuem deficiência consigam ter acesso de maneira fácil à comunidade ao todo, com analfabetos digitais que possui dificuldade ao acessar o site ou pessoas com dificuldade em comunicação, por isso o site apresenta baixo risco de rejeição pois tem praticidade em seu uso com software estruturado possuindo atualizações sempre visando em melhorar.
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
