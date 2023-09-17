@@ -289,18 +289,18 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| Requisito                 | UC-01 | UC-02 | UC-03 | UC-04 | UC-05 | UC-06 | UC-07 | UC-08 | UC-09 | UC-10 |
+| Requisito                 | Sistema de cadastro de usuario| Cadastro do Produto | Implementado no site | Fora do site | UC-05 | UC-06 |
 |---------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| RF-001 - Cadastro de Usuários |   X   |       |       |       |       |       |       |       |       |       |
-| RF-002 - Entrada sem Usuário |       |   X   |   X   |       |       |       |       |       |       |   X   |
-| RF-003 - Carrinho de Compras |       |       |   X   |       |       |       |       |       |       |       |
-| RF-004 - Catálogo de Produtos |       |       |       |   X   |       |       |       |       |       |       |
-| RF-005 - Sistema de Self-service |       |       |       |       |   X   |       |       |       |       |       |
-| RF-006 - Sistema de Entrega  |       |       |       |       |       |   X   |       |       |       |       |
-| RF-007 - Sistema de Timing   |       |       |       |       |       |       |   X   |       |       |       |
-| RF-008 - Recuperação de Cadastro |       |       |       |       |       |       |       |   X   |       |       |
-| RF-009 - Sorveteria Física  |       |       |       |       |       |       |       |       |   X   |   X   |
-| RF-010 - Sistema de Promoções |       |       |       |       |       |       |       |       |       |   X   |
+| RF-001 - Cadastro de Usuários   |   X   |       |   X   |       |       |       |       |       |       |       |
+| RF-002 - Entrada sem Usuário    |   X   |       |   X   |       |       |       |       |       |       |       |
+| RF-003 - Carrinho de Compras    |       |   X   |   X   |       |       |       |       |       |       |       |
+| RF-004 - Catálogo de Produtos   |       |   X   |   X   |       |       |       |       |       |       |       |
+| RF-005 - Sistema de Self-service|       |   X   |   X   |       |       |       |       |       |       |       |
+| RF-006 - Sistema de Entrega     |       |       |   X   |   X   |       |       |       |       |       |       |
+| RF-007 - Sistema de Timing      |       |       |   X   |       |       |       |       |       |       |       |
+| RF-008 - Recuperação de Cadastro|       |       |   X   |       |       |       |       |       |       |       |
+| RF-009 - Sorveteria Física      |       |       |       |   X   |       |       |       |       |       |       |
+| RF-010 - Sistema de Promoções   |       |       |   X   |   X   |       |       |       |       |       |       |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
