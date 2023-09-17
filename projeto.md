@@ -214,16 +214,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-008 | Recuperação de cadastro  | No momento em que o cliente não relembra os dados de seu cadastro para refazer login, ele poderá tentar recuperar usando o email que foi cadastrado anteriormente |
 |RF-009 | Sorveteria física  | O cliente poderá tomar o sorvete na sorveteria física ou fazer seu pedido na loja online mas buscar seu pedido na loja física |
 |RF-010 | Sistema de  Promoções  |  a sorveteria terá promoções  de  feriados importantes, ex: dia das mães, dia dos pais e etc. |
-|RF-011 | ...  | .... |
-|RF-012 | ...  | .... |
-|RF-013 | ...  | .... |
-|RF-014 | ...  | .... |
-|RF-015 | ...  | .... |
-|RF-016 | ...  | .... |
-|RF-017 | ...  | .... |
-|RF-018 | ...  | .... |
-|RF-019 | ...  | .... |
-|RF-020 | ...  | .... |
+
 
 
 
@@ -289,18 +280,19 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| Requisito                 | Sistema de cadastro de usuario| Cadastro do Produto | Implementado no site | Fora do site | UC-05 | UC-06 |
-|---------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| RF-001 - Cadastro de Usuários   |   X   |       |   X   |       |       |       |       |       |       |       |
-| RF-002 - Entrada sem Usuário    |   X   |       |   X   |       |       |       |       |       |       |       |
-| RF-003 - Carrinho de Compras    |       |   X   |   X   |       |       |       |       |       |       |       |
-| RF-004 - Catálogo de Produtos   |       |   X   |   X   |       |       |       |       |       |       |       |
-| RF-005 - Sistema de Self-service|       |   X   |   X   |       |       |       |       |       |       |       |
-| RF-006 - Sistema de Entrega     |       |       |   X   |   X   |       |       |       |       |       |       |
-| RF-007 - Sistema de Timing      |       |       |   X   |       |       |       |       |       |       |       |
-| RF-008 - Recuperação de Cadastro|       |       |   X   |       |       |       |       |       |       |       |
-| RF-009 - Sorveteria Física      |       |       |       |   X   |       |       |       |       |       |       |
-| RF-010 - Sistema de Promoções   |       |       |   X   |   X   |       |       |       |       |       |       |
+| Requisito | Sistema de cadastro | Cadastro do Produto | Implementado no site  | Fora do site | Integrado ao app mobile | UC-06 | UC-07 | UC-08 | UC-09 | UC-10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| RF-001 - Cadastro de Usuários | X |  | X |  | X |  |  |  |  |  |
+| RF-002 - Entrada sem Usuário | X |  | X |  | X |  |  |  |  |  |
+| RF-003 - Carrinho de Compras |  | X | X |  | X |  |  |  |  |  |
+| RF-004 - Catálogo de Produtos |  | X | X |  | X |  |  |  |  |  |
+| RF-005 - Sistema de Self-service |  | X | X |  | X |  |  |  |  |  |
+| RF-006 - Sistema de Entrega |  | X |  | X |  |  |  |  |  |  |
+| RF-007 - Sistema de Timing |  |  | X | X | X |  |  |  |  |  |
+| RF-008 - Recuperação de Cadastro | X |  | X |  | X |  |  |  |  |  |
+| RF-009 - Sorveteria Física |  |  |  | X |  |  |  |  |  |  |
+| RF-010 - Sistema de Promoções |  |  | X | X | X |  |  |  |  |  |
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
