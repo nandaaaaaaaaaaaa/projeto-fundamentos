@@ -289,11 +289,19 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
-|      | | | | | | | | | | | 
+| Requisito                 | UC-01 | UC-02 | UC-03 | UC-04 | UC-05 | UC-06 | UC-07 | UC-08 | UC-09 | UC-10 |
+|---------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| RF-001 - Cadastro de Usuários |   X   |       |       |       |       |       |       |       |       |       |
+| RF-002 - Entrada sem Usuário |       |   X   |   X   |       |       |       |       |       |       |   X   |
+| RF-003 - Carrinho de Compras |       |       |   X   |       |       |       |       |       |       |       |
+| RF-004 - Catálogo de Produtos |       |       |       |   X   |       |       |       |       |       |       |
+| RF-005 - Sistema de Self-service |       |       |       |       |   X   |       |       |       |       |       |
+| RF-006 - Sistema de Entrega  |       |       |       |       |       |   X   |       |       |       |       |
+| RF-007 - Sistema de Timing   |       |       |       |       |       |       |   X   |       |       |       |
+| RF-008 - Recuperação de Cadastro |       |       |       |       |       |       |       |   X   |       |       |
+| RF-009 - Sorveteria Física  |       |       |       |       |       |       |       |       |   X   |   X   |
+| RF-010 - Sistema de Promoções |       |       |       |       |       |       |       |       |       |   X   |
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Classes
