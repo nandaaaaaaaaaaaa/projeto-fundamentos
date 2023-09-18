@@ -287,7 +287,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 | RF-003 - Carrinho de Compras |  | X | X |  | X | X |
 | RF-004 - Catálogo de Produtos |  | X | X |  | X | X |
 | RF-005 - Sistema de Self-service |  | X | X |  | X | X |
-| RF-006 - Sistema de Entrega |  | X |  | X |  |  | X |
+| RF-006 - Sistema de Entrega |  | X |  | X |  |  | X | X |
 | RF-007 - Sistema de Timing |  |  | X | X | X |  | X |
 | RF-008 - Recuperação de Cadastro | X |  | X |  | X | |
 | RF-009 - Sorveteria Física |  |  |  | X |  | |
