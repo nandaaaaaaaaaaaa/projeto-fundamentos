@@ -192,7 +192,7 @@ Do ponto de vista das pessoas que trabalham na nossa sorveteria (Sweet Home). Es
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+**Modelo em Cascata:** Uma abordagem sequencial, onde cada fase do projeto é concluída antes de passar para a próxima. Geralmente é adequada para projetos com requisitos estáveis e bem definidos.
 
 # Requisitos do Software
 
