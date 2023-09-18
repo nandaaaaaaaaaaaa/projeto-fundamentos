@@ -280,18 +280,18 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| Requisito | Sistema de cadastro | Cadastro do Produto | Implementado no site  | Fora do site | Integrado ao app mobile | UC-06 | UC-07 | UC-08 | UC-09 | UC-10 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| RF-001 - Cadastro de Usuários | X |  | X |  | X |  |  |  |  |  |
-| RF-002 - Entrada sem Usuário | X |  | X |  | X |  |  |  |  |  |
-| RF-003 - Carrinho de Compras |  | X | X |  | X |  |  |  |  |  |
-| RF-004 - Catálogo de Produtos |  | X | X |  | X |  |  |  |  |  |
-| RF-005 - Sistema de Self-service |  | X | X |  | X |  |  |  |  |  |
-| RF-006 - Sistema de Entrega |  | X |  | X |  |  |  |  |  |  |
-| RF-007 - Sistema de Timing |  |  | X | X | X |  |  |  |  |  |
-| RF-008 - Recuperação de Cadastro | X |  | X |  | X |  |  |  |  |  |
-| RF-009 - Sorveteria Física |  |  |  | X |  |  |  |  |  |  |
-| RF-010 - Sistema de Promoções |  |  | X | X | X |  |  |  |  |  |
+| Requisito | Sistema de cadastro | Cadastro do Produto | Implementado no site  | Fora do site | Integrado ao app mobile |
+| --- | --- | --- | --- | --- | --- |
+| RF-001 - Cadastro de Usuários | X |  | X |  | X |
+| RF-002 - Entrada sem Usuário | X |  | X |  | X |
+| RF-003 - Carrinho de Compras |  | X | X |  | X |
+| RF-004 - Catálogo de Produtos |  | X | X |  | X |
+| RF-005 - Sistema de Self-service |  | X | X |  | X |
+| RF-006 - Sistema de Entrega |  | X |  | X |  |  |
+| RF-007 - Sistema de Timing |  |  | X | X | X |  |
+| RF-008 - Recuperação de Cadastro | X |  | X |  | X |
+| RF-009 - Sorveteria Física |  |  |  | X |  |
+| RF-010 - Sistema de Promoções |  |  | X | X | X |
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
