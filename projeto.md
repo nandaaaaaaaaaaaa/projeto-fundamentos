@@ -305,6 +305,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Pedro B](/img/OIi.png)
 ![Pedro N](/img/pedro.png)
+![Fernanda](/img/diagramaSequenciaFer.png)
+
 
 # Diagrama de Atividades
 
