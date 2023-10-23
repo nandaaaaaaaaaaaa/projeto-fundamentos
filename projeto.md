@@ -303,7 +303,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-[ [Pedro B](/img/OIi.png) ]
+![Pedro B](/img/OIi.png)
 
 # Diagrama de Atividades
 
