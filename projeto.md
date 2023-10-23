@@ -305,6 +305,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![Pedro B](/img/OIi.png)
 ![Pedro N](/img/pedro.png)
 ![Fernanda](/img/diagramaSequenciaFer.png)
+![Luan](https://github.com/nandaaaaaaaaaaaa/projeto-fundamentos/assets/127432942/f25f7efe-be9b-4956-84ec-e2d763a05c94)
+)
 
 
 # Diagrama de Atividades
