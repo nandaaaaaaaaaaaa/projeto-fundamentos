@@ -9,7 +9,6 @@
 |:---|:---|:---|
 |Fernada Gonçalves da Costa|Desenvolvedora-Líder|fernandagoncalvesdacosta9094@gmail.com|
 |Wanda Pereira da Costa|Desenvolvedora|pereirawanda131@gmail.com|
-|Aline Noemerg Grey|Desenvolvedora|noemerggrey@gmail.com|
 |Pedro Noemerg De Andrade|Desenvolvedor|pedronoemerg10@gmail.com|
 |Kewrison Luan Caminha Rodrigues|Desenvolvedor|luan.caminha124@gmail.com|
 |Pedro Henrique Baltazar da Silva| Desenvolvedor|pedrohenriquebaltazar5@gmail.com| 
