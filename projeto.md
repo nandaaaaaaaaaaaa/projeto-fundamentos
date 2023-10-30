@@ -311,6 +311,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Atividades
 
+![Pedro N](/img/diagramaAtividades.png)
 
 # REFERÊNCIAS
 
